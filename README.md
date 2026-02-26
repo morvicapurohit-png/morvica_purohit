@@ -2,7 +2,7 @@
 
 **Analytics professional** with 3+ years of experience bridging data teams and business stakeholders at DHL and Morningstar. Currently pursuing an **MSc in Business Analytics at UCL**.
 
-I work at the intersection of data and business decisions — turning complex datasets into insights that people actually use.
+I work at the intersection of data and business decisions turning complex datasets into insights that people actually use.
 
 ---
 
